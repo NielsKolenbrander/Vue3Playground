@@ -39,6 +39,7 @@
       ],
       "games": [
             {
+                  "id": 1,
                   "title": "Tour de France"
             },
             {
