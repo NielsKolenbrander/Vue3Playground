@@ -37,5 +37,15 @@
                   "racing": 0
             }
       ],
-      "games": []
+      "games": [
+            {
+                  title: "Tour de France"
+            },
+            {
+                  "title": "Topcoach"
+            },
+            {
+                  "title": "Wimbledon"
+            }
+      ]
 }
