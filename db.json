@@ -1,40 +1,56 @@
 {
-      "contenders": [
-            {
-                  "id": 1,
-                  "name": "Rick",
-                  "football": 7,
-                  "cycling": 13,
-                  "tennis": 6,
-                  "darts": 0,
-                  "racing": 3
-            },
-            {
-                  "id": 2,
-                  "name": "Niels",
-                  "football": 2,
-                  "cycling": 7,
-                  "tennis": 0,
-                  "darts": 3,
-                  "racing": 1
-            },
-            {
-                  "id": 3,
-                  "name": "Stefan",
-                  "football": 4,
-                  "cycling": 2,
-                  "tennis": 0,
-                  "darts": 1,
-                  "racing": 0
-            },
-            {
-                  "id": 4,
-                  "name": "Joris",
-                  "football": 3,
-                  "cycling": 1,
-                  "tennis": 0,
-                  "darts": 1,
-                  "racing": 0
-            }
-      ]
+      "scoritoto": {
+	      "contenders": [
+                  {
+                        "id": 1,
+                        "name": "Rick",
+                        "football": 7,
+                        "cycling": 13,
+                        "tennis": 6,
+                        "darts": 0,
+                        "racing": 3
+                  },
+                  {
+                        "id": 2,
+                        "name": "Niels",
+                        "football": 2,
+                        "cycling": 7,
+                        "tennis": 0,
+                        "darts": 3,
+                        "racing": 1
+                  },
+                  {
+                        "id": 3,
+                        "name": "Stefan",
+                        "football": 4,
+                        "cycling": 2,
+                        "tennis": 0,
+                        "darts": 1,
+                        "racing": 0
+                  },
+                  {
+                        "id": 4,
+                        "name": "Joris",
+                        "football": 3,
+                        "cycling": 1,
+                        "tennis": 0,
+                        "darts": 1,
+                        "racing": 0
+                  }
+      	],
+      	"games": [
+		      {
+		            "id": 1,
+                        "title": "Tour de France"
+                  },
+                  {
+                        "id": 2,
+                        "title": "Topcoach"
+                  },
+                  {
+                        "id": 3,
+                        "title": "Wimbledon"
+                  }
+            ]
+      }
 }
