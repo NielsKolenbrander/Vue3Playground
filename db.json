@@ -7,7 +7,8 @@
                   "cycling": 13,
                   "tennis": 6,
                   "darts": 0,
-                  "racing": 3
+                  "racing": 3,
+                  "victories": 0
             },
             {
                   "id": 2,
@@ -16,7 +17,8 @@
                   "cycling": 7,
                   "tennis": 0,
                   "darts": 3,
-                  "racing": 1
+                  "racing": 1,
+                  "victories": 0
             },
             {
                   "id": 3,
@@ -25,7 +27,8 @@
                   "cycling": 2,
                   "tennis": 0,
                   "darts": 1,
-                  "racing": 0
+                  "racing": 0,
+                  "victories": 0
             },
             {
                   "id": 4,
@@ -34,7 +37,8 @@
                   "cycling": 1,
                   "tennis": 0,
                   "darts": 1,
-                  "racing": 0
+                  "racing": 0,
+                  "victories": 0
             }
       ],
       "games": [
