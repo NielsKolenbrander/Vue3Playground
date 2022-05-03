@@ -44,15 +44,24 @@
       "games": [
             {
                   "id": 1,
-                  "title": "Tour de France"
+                  "title": "Topcoach 2016",
+                  "first": "Niels",
+                  "second": "Rick",
+                  "third": "Stefan"
             },
             {
                   "id": 2,
-                  "title": "Topcoach"
+                  "title": "Match King 2016",
+                  "first": "Joris",
+                  "second": "Rick",
+                  "third": "Niels"
             },
             {
                   "id": 3,
-                  "title": "Wimbledon"
+                  "title": "Giro 2016",
+                  "first": "Rick",
+                  "second": "Niels",
+                  "third": "Stefan"
             }
       ]
 }
